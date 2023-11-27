@@ -1,0 +1,7 @@
+{
+  "start" : "Welcome to PassStorage. Here you can store you passwords and personal data and don't care about confidentiality.",
+  "pass_info" : "Set up your password:\nURL: <a href=\"{0}\">{0}</a>\nLogin: <code>{1}</code>\nPassword: <code>{2}</code>\nDescription: {3}",
+  "send_pass_info" : "URL: <a href=\"{0}\">{0}</a>\nLogin: <code>{1}</code>\nDescription: {3}",
+  "show_pass" : "URL: <a href=\"{0}\">{0}</a>\nLogin: <code>{1}</code>\nPassword: <code>{2}</code>\nDescription: {3}",
+  "set_time" : "Enter delay before delete in seconds. Current delay: {0}. Minimal delay is {1}. Maximal delay is {2}. If delay more than maximal delay, messages won't be deleted. Messages sent before changing delay will remain previous delay."
+}
